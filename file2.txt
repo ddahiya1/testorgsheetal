@@ -3,5 +3,16 @@ git session
 git advance commands
 
 git reflog
+git fetch
+git pull
 
-git merge vs rebase
+git rebase vs git merge
+
+git revert
+
+git cherry-pick
+
+git status
+
+git log --oneline
+
