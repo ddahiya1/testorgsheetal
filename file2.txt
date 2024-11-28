@@ -5,3 +5,8 @@ git advance commands
 git reflog
 
 git merge vs rebase
+
+git cherry-pick
+
+git status
+
