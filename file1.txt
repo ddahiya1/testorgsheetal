@@ -1,0 +1,4 @@
+
+git session 1
+
+file1 data with basic git commands
