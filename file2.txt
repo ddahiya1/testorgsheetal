@@ -9,3 +9,10 @@ git pull
 git rebase vs git merge
 
 git revert
+
+git cherry-pick
+
+git status
+
+git log --oneline
+
