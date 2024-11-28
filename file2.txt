@@ -10,5 +10,3 @@ git cherry-pick
 
 git status
 
-
-extra line additon for revert commit commit
