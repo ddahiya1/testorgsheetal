@@ -10,3 +10,5 @@ git cherry-pick
 
 git status
 
+git log --oneline
+
